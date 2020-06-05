@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* Siraj Raval video tutorial: https://www.youtube.com/watch?v=MViBvQXQ3mM
+* howCode video tutorial: https://www.youtube.com/watch?v=b81Ib_oYbFk&feature=youtu.be
